@@ -24,4 +24,4 @@ Allow the customers to pay using securely using their credit cards or CBD accoun
 
 ● Allow customers from only selected countries to use the CBD payment gateway.
 
-For more information, visit ***https://meetanshi.com/magento-2-cbd-payment-gateway.html](https://meetanshi.com/magento-2-cbd-payment-gateway.html)***
+For more information, visit ***[https://meetanshi.com/magento-2-cbd-payment-gateway.html](https://meetanshi.com/magento-2-cbd-payment-gateway.html)***
