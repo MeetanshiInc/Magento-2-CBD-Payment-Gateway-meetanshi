@@ -1,4 +1,4 @@
-#Magento 2 CBD Payment Gateway
+# Magento 2 CBD Payment Gateway
 Commercial Bank of Dubai (CBD) is one of the leading banks in the United Arab Emirates. It provides an e-debit payment gateway that enables the customers to pay online directly using a CBD CASA account, CBD Cash Online account, or Credit Card.
 
 
